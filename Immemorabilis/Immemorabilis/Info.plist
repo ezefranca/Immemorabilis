@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Immemorabilis</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.ezefranca.Immemorabilis</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>immemorabilis</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Immemorabilis reads and updates the Reminders lists you choose so it can organize, complete, and snooze your commitments.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Immemorabilis uses the microphone only while you dictate a reminder.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Immemorabilis converts your spoken commitment into reminder text in your chosen language.</string>
+</dict>
+</plist>
